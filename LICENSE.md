@@ -1,4 +1,4 @@
-# 
+# elite Atom for PC | Atom for Windows Snippet | syntax-highlighting + search-and-replace offers the most advanced Atom for PC | Atom for Windows snippet, with syntax-highlighting
 
 
 
